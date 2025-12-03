@@ -3,7 +3,7 @@
 |:-----------------------------------------------|:-------------------------------|:-------------------------------|
 | [Day  1](https://adventofcode.com/2025/day/1)  | [`28.7  ms`](./day01/part1.py) | [`29.4  ms`](./day01/part2.py) |
 | [Day  2](https://adventofcode.com/2025/day/2)  | [`26.8  ms`](./day02/part1.py) | [`27.3  ms`](./day02/part2.py) |
-| [Day  3](https://adventofcode.com/2025/day/3)  |                                |                                |
+| [Day  3](https://adventofcode.com/2025/day/3)  | [`36.0  ms`](./day03/part1.py) | [`78.2  ms`](./day03/part2.py) |
 | [Day  4](https://adventofcode.com/2025/day/4)  |                                |                                |
 | [Day  5](https://adventofcode.com/2025/day/5)  |                                |                                |
 | [Day  6](https://adventofcode.com/2025/day/6)  |                                |                                |
