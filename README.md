@@ -8,7 +8,7 @@
 | [Day  5](https://adventofcode.com/2025/day/5)  | [`56.5  ms`](./day05/part1.py) | [`30.5  ms`](./day05/part2.py) |
 | [Day  6](https://adventofcode.com/2025/day/6)  | [`40.7  ms`](./day06/part1.py) | [`163.8 ms`](./day06/part2.py) |
 | [Day  7](https://adventofcode.com/2025/day/7)  | [`39.9  ms`](./day07/part1.py) | [`40.1  ms`](./day07/part2.py) |
-| [Day  8](https://adventofcode.com/2025/day/8)  |                                |                                |
+| [Day  8](https://adventofcode.com/2025/day/8)  | [`656.8 ms`](./day08/part1.py) | [`546.8 ms`](./day08/part2.py) |
 | [Day  9](https://adventofcode.com/2025/day/9)  |                                |                                |
 | [Day 10](https://adventofcode.com/2025/day/10) |                                |                                |
 | [Day 11](https://adventofcode.com/2025/day/11) |                                |                                |
